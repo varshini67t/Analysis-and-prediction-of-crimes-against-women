@@ -50,7 +50,6 @@ Detection Accuracy: 98.97% Note: These metrics can be customized based on your a
 This project successfully built a machine learning model to analyze the crimes against women.
 The model achieved an accuracy of 98% on the validation set and was able to analyze the crimes against women.
 This project demonstrates the potential of machine learning for automated crime detection, which could be used for a variety of applications such as emergency alert system , crime rate analyzer, crime rate predictor.
-![image](https://github.com/varshini67t/Analysis-and-prediction-of-crimes-against-women/assets/107982953/e083b267-8b24-480d-9914-3452ea387f57)
 
 
 
